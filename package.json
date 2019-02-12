@@ -1,0 +1,23 @@
+{
+  "name": "header-iframe-container",
+  "version": "1.0.0",
+  "description": "header with iframe container for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eckmLJE/header-iframe-container.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eckmLJE/header-iframe-container/issues"
+  },
+  "homepage": "https://github.com/eckmLJE/header-iframe-container#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
